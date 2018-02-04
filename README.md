@@ -1,6 +1,8 @@
 # cards.iwwa.settingsform
 
-Actually I 'stole' all this from
+You can use this CiviCRM extension if you want to create a settings form for your own extension.
+
+Actually I 'stole' most of the code from
 https://github.com/eileenmcnaughton/nz.co.fuzion.civixero/blob/master/CRM/Civixero/Form/XeroSettings.php
 so credits to
 [Eileen](https://github.com/eileenmcnaughton).
