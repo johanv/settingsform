@@ -42,7 +42,7 @@ return array(
 
 The configuration of the setting using a key-value-array is used at
 more places in CiviCRM. I'm not sure about the fields and the possible
-values. Maybe there is documentation somewhere.
+values, but there is some info in the [CiviCRM documentation](https://docs.civicrm.org/dev/en/latest/framework/setting/).
 
 The important thing is that all your settings have the same value for
 `group`.
